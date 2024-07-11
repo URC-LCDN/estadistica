@@ -22,5 +22,5 @@ ___
 
 ## Autores
 
- * **Fernando Izquierdo** - [@mahmc](https://github.com/Fernando-Izquierdo)
- * **Miguel Evangelista** - [@mahmc](https://github.com/mevangelista-alvarado)
+ * **Fernando Izquierdo** - [@Fernando-Izquierdo](https://github.com/Fernando-Izquierdo)
+ * **Miguel Evangelista** - [@mevangelista-alvarado](https://github.com/mevangelista-alvarado)
