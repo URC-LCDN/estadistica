@@ -10,7 +10,7 @@ ___
 
 # Estadística
  * [Estadísticos](https://github.com/URC-LCDN/estadistica/blob/main/Estad%C3%ADsticos.ipynb)
- * [Álgebra de Marices](https://github.com/URC-LCDN/estadistica/blob/main/CalculadoraAlgebraMatrices.ipynb)
+ * [Álgebra de Matrices](https://github.com/URC-LCDN/estadistica/blob/main/CalculadoraAlgebraMatrices.ipynb)
  * [Distribución Normal](https://github.com/URC-LCDN/estadistica/blob/main/Distribuci%C3%B3n_Normal.ipynb)
    * [Ejemplo con la afluencia de pasajeros del Metrobús de la CDMX](https://github.com/URC-LCDN/estadistica/blob/main/EjemploDeDistNormal_AfluenciaMetrobus.ipynb) 
  * [Distribución Poisson](https://github.com/URC-LCDN/estadistica/blob/main/Distribuci%C3%B3n_Poisson.ipynb)
