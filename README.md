@@ -14,7 +14,7 @@ ___
  * [Distribución Normal](https://github.com/URC-LCDN/estadistica/blob/main/Distribuci%C3%B3n_Normal.ipynb)
    * [Ejemplo con la afluencia de pasajeros del Metrobús de la CDMX](https://github.com/URC-LCDN/estadistica/blob/main/EjemploDeDistNormal_AfluenciaMetrobus.ipynb) 
  * [Distribución Poisson](https://github.com/URC-LCDN/estadistica/blob/main/Distribuci%C3%B3n_Poisson.ipynb)
-   * [Ejemplo con las Víctimas en carpetas de investigación FGJ de la CDMX](https://github.com/mevangelista-alvarado/CNVSMM/blob/main/EjemploDeDistPoisson_LineaMujeres.ipynb)
+   * [Ejemplo con las Víctimas en carpetas de investigación FGJ de la CDMX](https://github.com/URC-LCDN/estadistica/blob/main/EjemploDeDistNormal_AfluenciaMetrobus.ipynb)
 ___
 
 ## Errores & Sugerencias
